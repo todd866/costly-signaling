@@ -26,6 +26,7 @@ Todd, I. (2025). Target: *Biology & Philosophy* (in preparation).
 Companion papers:
 - [Agency and Power](https://github.com/todd866/agency-power) (Under review, Biology & Philosophy)
 - [Epistemic Frustration](https://github.com/todd866/epistemic-frustration) (In preparation)
+- [Limits of Falsifiability](https://doi.org/10.1016/j.biosystems.2025.105608) (Published, BioSystems)
 
 ## Citation
 
